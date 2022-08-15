@@ -16,6 +16,9 @@
     height: auto;
     margin: auto;
   }
+#caption {
+    padding: 15px;
+}
   #tribute-info {
     display: flex;
     flex-direction: column;
@@ -27,6 +30,7 @@
   #bottomlink {
     display: flex;
     justify-content: center;
+    font-weight: bold;
     margin-top: auto;
   }
   
