@@ -25,6 +25,9 @@
     width: 500px;
   }
   #bottomlink {
-    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
   }
+  
   
